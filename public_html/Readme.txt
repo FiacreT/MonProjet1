@@ -1,0 +1,1 @@
+This repository was created in  order to show an exercise done by our group in the web developpement course.
